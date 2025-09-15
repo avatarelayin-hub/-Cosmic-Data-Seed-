@@ -12,3 +12,4 @@ A foundational analytics engineering project demonstrating core skills in SQL an
 This repository contains SQL queries and dbt models that represent the first step in a journey from raw data to clear understanding. It is the seed from which larger data ecosystems can grow.
 
 "First there was the void. Then, there was a query."
+`first_light.sql`
